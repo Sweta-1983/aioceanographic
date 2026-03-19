@@ -93,7 +93,7 @@ All design components are implemented with **TailwindCSS**, ensuring modularity,
 ### 🔧 Setup Instructions
 ```bash
 # clone the repository
-git clone https://github.com/TechTrekkers-GEHU/aioceanographic-frontend.git
+git clone https://github.com/Sweta-1983/aioceanographic.git
 cd aioceanographic-frontend
 
 # install dependencies
